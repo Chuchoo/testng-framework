@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [SeleniumSuite]">
+  <test name="TestNgSeleniumTest">
+    <classes>
+      <class name="MavenizedTestNGFramewok.SimpleSearchExample"/>
+    </classes>
+  </test> <!-- TestNgSeleniumTest -->
+</suite> <!-- Failed suite [SeleniumSuite] -->
