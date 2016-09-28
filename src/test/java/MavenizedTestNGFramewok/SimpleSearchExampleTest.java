@@ -10,7 +10,7 @@ import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Test;
 
-public class SimpleSearchExample {
+public class SimpleSearchExampleTest {
 	
 	private WebDriver driver;
 	

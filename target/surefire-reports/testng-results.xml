@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="MavenizedTestNGFramewok.SimpleSearchExampleTest" duration-ms="2104" started-at="2016-09-28T19:54:10Z" finished-at="2016-09-28T19:54:12Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="2104" started-at="2016-09-28T19:54:10Z" finished-at="2016-09-28T19:54:12Z">
+      <class name="MavenizedTestNGFramewok.SimpleSearchExampleTest">
+        <test-method status="PASS" signature="initDriver()[pri:0, instance:MavenizedTestNGFramewok.SimpleSearchExampleTest@2c6a3f77]" name="initDriver" is-config="true" duration-ms="3889" started-at="2016-09-28T14:54:06Z" finished-at="2016-09-28T14:54:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method status="PASS" signature="SearchInGoogle()[pri:0, instance:MavenizedTestNGFramewok.SimpleSearchExampleTest@2c6a3f77]" name="SearchInGoogle" duration-ms="2094" started-at="2016-09-28T14:54:10Z" finished-at="2016-09-28T14:54:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchInGoogle -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:MavenizedTestNGFramewok.SimpleSearchExampleTest@2c6a3f77]" name="quitDriver" is-config="true" duration-ms="393" started-at="2016-09-28T14:54:12Z" finished-at="2016-09-28T14:54:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- MavenizedTestNGFramewok.SimpleSearchExampleTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- MavenizedTestNGFramewok.SimpleSearchExampleTest -->
+</testng-results>

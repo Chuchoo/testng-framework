@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="5184" started-at="2016-09-28T00:35:23Z" finished-at="2016-09-28T00:35:29Z">
+  <suite name="SeleniumSuite" duration-ms="2021" started-at="2016-09-28T14:04:20Z" finished-at="2016-09-28T14:04:22Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="5184" started-at="2016-09-28T00:35:23Z" finished-at="2016-09-28T00:35:29Z">
+    <test name="TestNgSeleniumTest" duration-ms="2021" started-at="2016-09-28T14:04:20Z" finished-at="2016-09-28T14:04:22Z">
       <class name="MavenizedTestNGFramewok.SimpleSearchExample">
-        <test-method status="PASS" signature="initDriver()[pri:0, instance:MavenizedTestNGFramewok.SimpleSearchExample@46d56d67]" name="initDriver" is-config="true" duration-ms="5331" started-at="2016-09-27T19:35:18Z" finished-at="2016-09-27T19:35:23Z">
+        <test-method status="PASS" signature="initDriver()[pri:0, instance:MavenizedTestNGFramewok.SimpleSearchExample@28d25987]" name="initDriver" is-config="true" duration-ms="7834" started-at="2016-09-28T09:04:12Z" finished-at="2016-09-28T09:04:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initDriver -->
-        <test-method status="PASS" signature="SearchInGoogle()[pri:0, instance:MavenizedTestNGFramewok.SimpleSearchExample@46d56d67]" name="SearchInGoogle" duration-ms="5168" started-at="2016-09-27T19:35:23Z" finished-at="2016-09-27T19:35:29Z">
+        <test-method status="PASS" signature="SearchInGoogle()[pri:0, instance:MavenizedTestNGFramewok.SimpleSearchExample@28d25987]" name="SearchInGoogle" duration-ms="1998" started-at="2016-09-28T09:04:20Z" finished-at="2016-09-28T09:04:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SearchInGoogle -->
-        <test-method status="PASS" signature="quitDriver()[pri:0, instance:MavenizedTestNGFramewok.SimpleSearchExample@46d56d67]" name="quitDriver" is-config="true" duration-ms="488" started-at="2016-09-27T19:35:29Z" finished-at="2016-09-27T19:35:29Z">
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:MavenizedTestNGFramewok.SimpleSearchExample@28d25987]" name="quitDriver" is-config="true" duration-ms="508" started-at="2016-09-28T09:04:22Z" finished-at="2016-09-28T09:04:23Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quitDriver -->
       </class> <!-- MavenizedTestNGFramewok.SimpleSearchExample -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- TestNgSeleniumTest -->
+  </suite> <!-- SeleniumSuite -->
 </testng-results>
